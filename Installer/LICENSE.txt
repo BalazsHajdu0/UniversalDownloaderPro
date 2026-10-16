@@ -1,0 +1,21 @@
+Universal Downloader Pro
+End-User License Agreement
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for personal, non-commercial purposes.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IMPORTANT NOTICE:
+This software is intended for downloading content that you have the legal
+right to download. Please respect copyright laws and terms of service of
+the platforms you are downloading from.
+
+The developers are not responsible for any misuse of this software.
+
+By installing this software, you agree to these terms.
