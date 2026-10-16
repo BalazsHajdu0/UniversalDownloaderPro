@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+packages/
+Installer/Tools/ffmpeg.exe
+Installer/Tools/yt-dlp.exe
+Installer/Output/
